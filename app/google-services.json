@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "542362959150",
+    "project_id": "shmsystem-dacc8",
+    "storage_bucket": "shmsystem-dacc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542362959150:android:db58c20fc4f8e79ed20ebf",
+        "android_client_info": {
+          "package_name": "com.shm.system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542362959150-v9e64bmia86gpkqpk6ao8fi5s01l5u60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv6rS6cHS5LvmryTsy_lauxHyJCOZu4mM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542362959150-v9e64bmia86gpkqpk6ao8fi5s01l5u60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
